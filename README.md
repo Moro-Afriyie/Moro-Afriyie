@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
-<img align="left" alt="python" width="26px" src="https://www.bing.com/images/search?view=detailV2&ccid=t%2fVqx3X2&id=AC2921206619DA589F195AE5D34AE00252028945&thid=OIP.t_Vqx3X2XolxOeHSoOwoNAHaFD&mediaurl=https%3a%2f%2fjustinlross.com.au%2fwp-content%2fuploads%2f2018%2f04%2fpython-logo.png&exph=886&expw=1300&q=Python+Symbol&simid=608028719053226559&ck=6E6E3ED15FEDB4C2FE4865AEC1EC7E5A&selectedIndex=4&FORM=IRPRST" />
+<img align="left" alt="python" width="26px" src="C:\Users\CHEALE\Desktop\Moro-Afriyie\logos\python-logo.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
