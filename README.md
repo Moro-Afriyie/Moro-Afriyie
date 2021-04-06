@@ -41,7 +41,7 @@ Here are some ideas to get you started: -->
 <img align="left" alt="Angular" width="60px" height="40px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/angular.jpg" />
 <img align="left" alt="python" width="40px" height="30px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/python-logo.png" />
 <img align="left" alt="Tensorflow" width="70px" height="40px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/tensorflow.png" />
-<img align="left" alt="JupyterNotebook"width="50px"  src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/jupyterNotebook.svg" />
+<img align="left" alt="JupyterNotebook"width="70px" height="40px"  src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/jupyterNotebook.svg" />
 <img align="left" alt="colab"width="30px"  src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/colab.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
