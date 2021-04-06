@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
-<img align="left" alt="Angular" width="40px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Angular" width="40px" height="30px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/angular.jpgg" />
 <img align="left" alt="python" width="40px" height="30px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/python-logo.png" />
-<img align="left" alt="Tensorflow" width="40px" height="30px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/tensorflow.png" />
-<img align="left" alt="JupyterNotebook"width="40px" height="30px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/jupyterNotebook.svg" />
-<img align="left" alt="colab"width="40px" height="30px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/jupyterNotebook.svg" />
+<img align="left" alt="Tensorflow" width="50px" height="40px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/tensorflow.png" />
+<img align="left" alt="JupyterNotebook"width="50px" height="50px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/jupyterNotebook.svg" />
+<img align="left" alt="colab"width="50px" height="50px" src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/colab.jpg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
