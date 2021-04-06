@@ -9,10 +9,10 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on improving myself and becoming a better developer and machine learning engineer.
 - 🌱 I’m currently learning anything that has to do with machine learning and data science. 
-- 👯  I’m looking forward to collaborating on any software and machine learning projects. 
+- 👯  I’m looking forward to collaborating on any software and machine learning projects.
+- 📫 How to reach me: ceremoinc99@gmail.com 
 <!-- - 🤔 I’m looking for help with NLP,computer vision -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: ceremoinc99@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
