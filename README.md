@@ -7,8 +7,8 @@ I am a hardworking and ambitious individual with a great passion for the technol
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on improving myself and become a better developer and machine learning engineer
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on improving myself and becoming a better developer and machine learning engineer.
+- 🌱 I’m currently learning anything that has to do with machine learning and data science. 
 - 👯 I’m looking to collaborate on any software and machine learning projects
 - 🤔 I’m looking for help with NLP,computer vision
 <!-- - 💬 Ask me about ... -->
