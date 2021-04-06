@@ -1,6 +1,6 @@
 ### Hi there, I'm Moro👋
 
-<!---<img src="https://github.com/aibenStunner/aibenStunner/blob/master/res/header.gif" alt="banner that says Moro Owusu Afriyie - undergraduate computer engineering student"> -->
+<!---<img src="https://github.com/Moro-Afriyie/Moro-Afriyie/blob/main/logos/confetti.gif" alt="banner that says Moro Owusu Afriyie - undergraduate computer engineering student"> -->
 I am a hardworking and ambitious individual with a great passion for the technology industry. I’m currently a final year student studying Bsc. Computer Engineering at the Kwame Nkrumah University of Science and Technology- Kumasi. I’m an enthusiastic developer and a persistent understudy with a strong internet in everything computer and technology related, especially machine learning and data science. I have excellent communication skills, which enables me to effectively communicate with people from diverse backgrounds. I am open to work part-time or remotely to practice my knowledge and experience, which will ultimately benefit the operations of the organization that I will work for. 💻 😊.
 
 <!-- **Moro-Afriyie/Moro-Afriyie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
