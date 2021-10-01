@@ -7,9 +7,9 @@ I am a hardworking and ambitious individual with a great passion for the technol
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on improving myself and becoming a better developer and machine learning engineer.
+- 🔭 I’m currently working on improving myself and becoming a better developer.
 - 🌱 I’m currently learning anything that has to do with MERN and becoming a full stack developer. 
-- 👯  I’m looking forward to collaborating on any software and machine learning projects.
+- 👯  I’m looking forward to collaborating on any software project.
 - 📫 How to reach me: ceremoinc99@gmail.com 
 <!-- - 🤔 I’m looking for help with NLP,computer vision -->
 <!-- - 💬 Ask me about ... -->
