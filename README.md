@@ -9,12 +9,12 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on improving myself and becoming a better developer.
 - 🌱 I’m currently learning anything that has to do with MERN and becoming a full stack developer.
-- 👯 - 👯 I’m looking to collaborate on either Frontend or Full stack web development
-- 📫 How to reach me: ceremoinc99@gmail.com
+- 👯 I’m looking to collaborate on either Frontend or Full stack web development
+- 📫 How to reach me: [ceremoinc99@gmail.com]
   <!-- - 🤔 I’m looking for help with NLP,computer vision -->
   <!-- - 💬 Ask me about ... -->
-  <!-- - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+  <!-- - 😄 Pronouns: ...-->
+- ⚡ Fun fact: Big fan of Chelsea football club
 
 ### Connect with me:
 
