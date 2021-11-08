@@ -25,11 +25,15 @@ Here are some ideas to get you started: -->
 
 <!-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 <br />
+<br />
+<br />
+<br />
 
 ## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="https://github.com/aibenStunner/aibenStunner/blob/master/res/git.gif"></a>
 
 - Send me a mail - <a href="ceremoinc99@gmail.com">ceremoinc@gmail.com</a> ✍🏾..📫
 - I'm on <a href="https://www.hackerrank.com/Moro_Afriyie">HackerRank</a> as well👩🏾‍💻
+  <br />
   <br />
   <br />
   <br />
