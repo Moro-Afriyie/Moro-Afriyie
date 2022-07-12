@@ -4,7 +4,9 @@
 
 <!-- I am a hardworking and ambitious individual with a great passion for the technology industry. A fullstack javaScript developer with hands-on experience working with JavaScript/typescript and in frameworks and libraries; React, NextJS, Angular, Redux, node, express and databases such as MongoDB, MYSQL to solve problems. I’m an enthusiastic developer and a persistent understudy with a strong interest in everything computer and technology-related. I have excellent communication skills, which enables me to effectively communicate with people from diverse backgrounds. I am open to working part-time or remotely to practice my knowledge and experience, which will ultimately benefit the operations of the organization that I will work for. 💻 😊. -->
 
-I am a hardworking and ambitious individual with a great passion for the technology industry. A fullstack javaScript developer with hands-on experience working with JavaScript/typescript and in frameworks and libraries; React, Angular, Redux, node, express and databases such as MongoDB, MYSQL to solve problems. I’m an enthusiastic developer and a persistent understudy with a strong interest in everything computer and technology-related. I have excellent communication skills, which enables me to effectively communicate with people from diverse backgrounds. I am open to working part-time or remotely to practice my knowledge and experience, which will ultimately benefit the operations of the organization that I will work for. 💻 😊.
+<!--I am a hardworking and ambitious individual with a great passion for the technology industry. A fullstack javaScript developer with hands-on experience working with JavaScript/typescript and in frameworks and libraries; React, Angular, Redux, node, express and databases such as MongoDB, MYSQL to solve problems. I’m an enthusiastic developer and a persistent understudy with a strong interest in everything computer and technology-related. I have excellent communication skills, which enables me to effectively communicate with people from diverse backgrounds. I am open to working part-time or remotely to practice my knowledge and experience, which will ultimately benefit the operations of the organization that I will work for. 💻 😊.-->
+
+I am a hardworking and ambitious individual with a great passion for the technology industry.A full-stack javaScript developer who primarily works with typescript/react + nodejs/express. My preference is for front-end development, and I have practical expertise using JavaScript/Typescript, as well as the frameworks and libraries React, Angular, Redux, node, express, and databases like Firebase and MySQL, to address issues. I'm a dedicated student and eager developer with a keen interest in anything computer- and technology-related.  I have excellent communication skills, which enables me to effectively communicate with people from diverse backgrounds. I'm willing to work part-time/full-time or remotely to put my skills to use, which will ultimately help the company I work for run more efficiently. 💻 😊.
 
 <!-- **Moro-Afriyie/Moro-Afriyie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,7 +57,7 @@ Here are some ideas to get you started: -->
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<!--![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!-- ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
